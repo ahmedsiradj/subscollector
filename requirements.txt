@@ -1,0 +1,8 @@
+requests
+bs4
+os
+re
+datetime
+argparse
+colored 
+sys
