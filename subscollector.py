@@ -79,7 +79,6 @@ if __name__ == "__main__":
 
     parser.add_argument('-d', '--domain', required=True)
     parser.add_argument('-o', '--output', required=False, default=None)
-    parser.add_argument('-t', '--timeout',required=False, default=5)
     args = parser.parse_args()
     if sys.argv[2] == "-h" or sys.argv[2] == "--help":
         parser.print_help()
