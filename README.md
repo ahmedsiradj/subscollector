@@ -5,7 +5,7 @@ It's a python tool that used to collect subdomains from third parties `rapiddns.
 ### Installation:
 
 ```
-git clone 
+git clone https://github.com/ahmedsiradj/subscollector.git
 cd subscollector/
 pip3 install -r requirements.txt
 ```
