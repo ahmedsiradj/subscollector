@@ -11,7 +11,7 @@ pip3 install -r requirements.txt
 ```
 
 ```
-python3 subscollector.py -h
+python subscollector.py -h
 ```
 
 ### Usage:
