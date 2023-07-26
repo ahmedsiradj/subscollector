@@ -4,7 +4,7 @@ It's a python tool that used to collect subdomains from third parties `rapiddns.
 
 ## P.S.
 ```
-You should have an api key of * [whoisxmlapi.com](https://www.whoisxmlapi.com/) * to get more results
+You should have an api key of [whoisxmlapi.com](https://www.whoisxmlapi.com/) to get more results
 ```
 ### Installation:
 
