@@ -1,7 +1,11 @@
 # subscollector
 
-It's a python tool that used to collect subdomains from third parties `rapiddns.io`,`subdomainfinder.c99.nl`,`crt.sh`.
+It's a python tool that used to collect subdomains from third parties `rapiddns.io`,`whoisxmlapi.com`,`crt.sh`.
 
+### P.S.
+```
+You should have an api key of *whoisxmlapi.com* to get more results
+```
 ### Installation:
 
 ```
@@ -17,5 +21,5 @@ python subscollector.py -h
 ### Usage:
 
 ```bash
-python subscollector.py -d target.com -o subdomains.txt
+python subscollector.py -d target.com -v -o subdomains.txt
 ```
