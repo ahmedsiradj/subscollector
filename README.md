@@ -2,9 +2,9 @@
 
 It's a python tool that used to collect subdomains from third parties `rapiddns.io`,`whoisxmlapi.com`,`crt.sh`.
 
-### P.S.
+## P.S.
 ```
-You should have an api key of *whoisxmlapi.com* to get more results
+You should have an api key of * [whoisxmlapi.com](https://www.whoisxmlapi.com/) * to get more results
 ```
 ### Installation:
 
